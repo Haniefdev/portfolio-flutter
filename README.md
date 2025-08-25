@@ -1,6 +1,5 @@
-# myportfoliowebsite
+# SIMPLE PORTFOLIO WEBSITE 
 
-A new Flutter project.
 
 ## Getting Started
 
